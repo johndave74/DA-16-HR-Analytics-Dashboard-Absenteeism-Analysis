@@ -127,3 +127,4 @@ Connect with me on LinkedIn: [John David](https://www.linkedin.com/in/john-david
 
 * `page 1.png`: Dashboard Overview (Metrics & Demographics)
 * `page 2.png`: Trends, Time Series & Health Analysis
+* SQL Server Queries
