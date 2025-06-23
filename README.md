@@ -1,7 +1,5 @@
 # HR Analytics Dashboard: Absenteeism Analysis
 
-![page 1](https://github.com/user-attachments/assets/7b087daa-a210-40fe-9c40-3360995b6eab)
-
 ## 📊 Project Overview
 
 This dashboard provides a comprehensive analysis of employee absenteeism within an organization. The goal is to identify patterns, underlying reasons, and impactful categories contributing to time lost due to absenteeism. It explores the relationship between absenteeism and variables such as seasons, employee demographics, BMI, education, and reasons related to health or lifestyle.
