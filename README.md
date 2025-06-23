@@ -9,7 +9,14 @@ The dashboard was built using **Power BI** and aims to help HR teams make data-d
 The entire workflow involved:
 * Data Preparation & Cleaning: Performed using SQL Server
 * Data Visualization & Reporting: Built using Power BI
+
 ---
+
+⚙️ Data Preparation (SQL Server)
+Before loading the data into Power BI, raw absenteeism logs were cleaned, aggregated, and transformed using SQL Server. Key operations included:
+* Joining the 3 tables (absenteeism, reasons and compensation)
+* Creating date-based aggregations (month, day of week)
+* Mapping categorical fields such as season break
 
 ## 🧠 Key Metrics
 
